@@ -44,7 +44,7 @@ This project analyzes the Olist Brazilian e-commerce dataset using SQL to uncove
 
 The dataset uses a relational model with fact tables (Orders, Order Items, Payments, Reviews) and dimension tables (Customers, Products, Sellers, Product Categories) connected via **primary and foreign keys** to support accurate joins and analysis.  
 
-![Olist Data Schema](schema_diagram.png)  
+![Olist Database Schema](schema_diagram.jpg)  
 
 ---
 
