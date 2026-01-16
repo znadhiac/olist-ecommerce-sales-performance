@@ -107,5 +107,5 @@ The dataset uses a relational model with fact tables (Orders, Order Items, Payme
 ## TOOLS USED  
 
 - **MySQL:** Data analysis and querying using the relational structure to extract accurate insights.  
-- **Python (Pandas):** Data cleaning and preparation, including handling missing values, duplicates, correcting data types, and filtering for 2018 orders to ensure consistency.  
+- **Python (Pandas) and Jupyter Notebook:** Data cleaning and preparation, including handling missing values, duplicates, correcting data types, and filtering for 2018 orders to ensure consistency.  
 - **Tableau:** Data visualization to create clear, actionable dashboards and charts.  
