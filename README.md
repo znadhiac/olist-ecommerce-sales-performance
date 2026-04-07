@@ -109,3 +109,7 @@ The dataset uses a relational model with fact tables (Orders, Order Items, Payme
 - **MySQL:** Data analysis and querying using the relational structure to extract accurate insights.  
 - **Python (Pandas) and Jupyter Notebook:** Data cleaning and preparation, including handling missing values, duplicates, correcting data types, and filtering for 2018 orders to ensure consistency.
 - **Markdown (.md):** Used to document analytical results, summarize key insights, and deliver actionable business recommendations in a readable format.  
+- **Tableau:** Built interactive dashboards to visualize key metrics and enable insights on sales, customers, and operations.  
+  [Olist E-Commerce Dashboard](https://public.tableau.com/views/OlistE-CommerceDashboard_17755755552510/SalesOverview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+  ![Olist E-Commerce Dashboard](olist_e-commerce_dashboard.png)
